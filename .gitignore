@@ -1,0 +1,3 @@
+/api-gateway/node_modules/*
+/hello-service/node_modules/*
+/person-service/node_modules/*
